@@ -1,0 +1,23 @@
+{
+  "name": "IstigFarm - Farma dobrih djela u oblaku",
+  "short_name": "IstigFarm",
+  "icons": [
+    {
+      "src": "/images/istigfarm.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/istigfarm.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#115e59",
+  "background_color": "#115e59",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "/",
+  "description": "Klikom sakupljaj sevape, zalijevaj nijete i skupljaj bericetne bodove."
+}

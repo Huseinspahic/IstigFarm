@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="256" fill="#115e59" />
+  
+  <!-- Mosque dome -->
+  <path d="M256 80 C350 80 420 150 420 230 L420 270 L92 270 L92 230 C92 150 162 80 256 80 Z" 
+        fill="#f4e0ba" stroke="#0a4a3f" stroke-width="8" />
+  
+  <!-- Mosque base -->
+  <rect x="92" y="270" width="328" height="120" fill="#f4e0ba" stroke="#0a4a3f" stroke-width="8" />
+  
+  <!-- Minaret left -->
+  <rect x="115" y="150" width="30" height="230" fill="#f4e0ba" stroke="#0a4a3f" stroke-width="8" rx="5" />
+  <path d="M115 150 L130 120 L145 150 Z" fill="#f4e0ba" stroke="#0a4a3f" stroke-width="5" />
+  
+  <!-- Minaret right -->
+  <rect x="367" y="150" width="30" height="230" fill="#f4e0ba" stroke="#0a4a3f" stroke-width="8" rx="5" />
+  <path d="M367 150 L382 120 L397 150 Z" fill="#f4e0ba" stroke="#0a4a3f" stroke-width="5" />
+  
+  <!-- Crescent -->
+  <path d="M256 70 A30 30 0 0 1 256 130 A50 50 0 0 0 256 30 A30 30 0 0 1 256 70" 
+        fill="#f4e0ba" stroke="#0a4a3f" stroke-width="5" />
+  
+  <!-- Door -->
+  <rect x="226" y="320" width="60" height="70" fill="#0a4a3f" rx="10" />
+  
+  <!-- Windows -->
+  <rect x="150" y="300" width="30" height="40" fill="#0a4a3f" rx="15" />
+  <rect x="332" y="300" width="30" height="40" fill="#0a4a3f" rx="15" />
+</svg>
